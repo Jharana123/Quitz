@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "question": "What is the capital of Chattisgarh ?",
+      "choices": ["Split", "Raipur", "Zagreb", "Rijeka"],
+      "answer": "Raipur"
+    },
+    {
+      "question": "What is the capital of Odisha ?",
+      "choices": ["Celje", "Ljubljana", "Maribor", "Bhubaneswar"],
+      "answer": "Bhubaneswar"
+    },
+     {
+      "question": "What is the capital of India ?",
+      "choices": ["Celje", "Ljubljana", "Delhi", "Koper"],
+      "answer": "Delhi"
+    }
+  ]
+}
